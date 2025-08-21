@@ -31,6 +31,12 @@ final commit for presentation
     }
     .grid {
       display: grid;
+
+      git add index.html
+git commit -m "Demo: add responsive webpage"
+git push origin main
+
+
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
       gap: 1rem;
     }
